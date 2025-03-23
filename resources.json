@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Godette (Rigged)",
+		"type": "3D Model",
+        "description": "Fully rigged 3D Model of 'Godette', the mascot of the Godot Engine (https://godotengine.org/), created in Blender 3.2 (although the rig should also work in older versions).",
+        "category": "Character",
+        "path": "godette"
+    },
+    {
+        "name": "Godot Plush by FR3NKD",
+		"type": "3D Model",
+        "description": "The digital edition of the legendary Godot plush.",
+        "category": "Prop",
+        "path": "godot_plush"
+    }
+]
