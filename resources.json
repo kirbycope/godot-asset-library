@@ -1,17 +1,21 @@
 [
 	{
-		"name": "Godette (Rigged)",
+		"name": "Godette",
 		"type": "3D Model",
 		"description": "Fully rigged 3D Model of 'Godette', the Godot mascot.",
 		"category": "Character",
+		"author": "zahlenmaler",
+		"license": "CC-BY-4.0",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godette/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godette/godette.zip"
 	},
 	{
-		"name": "Godot Plush by FR3NKD",
+		"name": "Godot Plush by ",
 		"type": "3D Model",
 		"description": "The digital edition of the legendary Godot plush.",
 		"category": "Prop",
+		"author": "FR3NKD",
+		"license": "CC0",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godot_plush/preview.jpg",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godot_plush/godot_plush.zip"
 	},
@@ -20,6 +24,8 @@
 		"type": "Texture",
 		"description": "Prototype textures from Kenny.nl.",
 		"category": "Prototype",
+		"author": "Kenny",
+		"license": "CC0",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/prototype_textures/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/prototype_textures/prototype_textures.zip"
 	},
@@ -28,6 +34,8 @@
 		"type": "Bundle",
 		"description": "Make your first game using this small collection of assets.",
 		"category": "Misc",
+		"author": "Brackeys",
+		"license": "CC0",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/brackeys_platformer_assets/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/brackeys_platformer_assets/brackeys_platformer_assets.zip"
 	},
@@ -36,6 +44,8 @@
 		"type": "3D Model",
 		"description": "Animate 3D characters for games, film, and more.",
 		"category": "Character",
+		"author": "Adobe",
+		"license": "Proprietary",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/mixamo_x_bot/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/mixamo_x_bot/mixamo_x_bot.zip"
 	},
@@ -44,6 +54,8 @@
 		"type": "3D Model",
 		"description": "Animate 3D characters for games, film, and more.",
 		"category": "Character",
+		"author": "Adobe",
+		"license": "Proprietary",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/mixamo_y_bot/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/mixamo_y_bot/mixamo_y_bot.zip"
 	},
@@ -52,6 +64,8 @@
 		"type": "3D Model",
 		"description": "Synty® Studios presents: POLYGON - Easter Pack.",
 		"category": "Prop",
+		"author": "Synty",
+		"license": "Proprietary",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_easter/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_easter/polygon_ppolygon_eastermpkins.zip"
 	},
@@ -60,6 +74,8 @@
 		"type": "3D Model",
 		"description": "Synty® Studios presents: POLYGON - Pumpkins Pack.",
 		"category": "Prop",
+		"author": "Synty",
+		"license": "Proprietary",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_pumpkins/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_pumpkins/polygon_pumpkins.zip"
 	},
@@ -68,14 +84,18 @@
 		"type": "3D Model",
 		"description": "Synty® Studios presents: POLYGON - Xmas Pack.",
 		"category": "Prop",
+		"author": "Synty",
+		"license": "Proprietary",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_xmas/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_xmas/polygon_xmas.zip"
 	},
 	{
-		"name": "Shrek (Rigged)",
+		"name": "Shrek",
 		"type": "Character",
-		"description": "A simple rig of Shrek.",
+		"description": "A rigged model of Shrek from Shrek Forever After (PC, 2010).",
 		"category": "Library",
+		"author": "Kirbycope",
+		"license": "MIT",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/shrek/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/shrek/shrek.zip"
 	},
@@ -84,6 +104,8 @@
 		"type": "Animation",
 		"description": "A kit of 45 animations, ready for retargeting.",
 		"category": "Library",
+		"author": "Quaternius",
+		"license": "CC0",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/universal_animation_library/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/universal_animation_library/universal_animation_library.zip"
 	}
