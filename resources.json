@@ -55,6 +55,17 @@
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/mixamo_y_bot/mixamo_y_bot.zip"
 	},
 	{
+		"name": "Monocraft",
+		"type": "Font",
+		"description": "A monospaced programming font inspired by the Minecraft typeface.",
+		"category": "Misc",
+		"author": "IdreesInc",
+		"license": "OFL-1.1",
+		"source": "https://github.com/IdreesInc/Monocraft",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/monocraft/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/monocraft/monocraft.zip"
+	},
+	{
 		"name": "POLYGON - Easter Pack",
 		"type": "3D Model",
 		"description": "Synty® Studios presents: POLYGON - Easter Pack.",
