@@ -18,8 +18,8 @@
 		"author": "styloo",
 		"license": "CC0",
 		"source": "https://styloo.itch.io/chibi",
-		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/brackeys_platformer_assets/preview.png",
-		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/brackeys_platformer_assets/brackeys_platformer_assets.zip"
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/chibi_characters/preview.jpg",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/chibi_characters/chibi_characters.zip"
 	},
 	{
 		"name": "Godette",
@@ -51,7 +51,7 @@
 		"author": "Lukky",
 		"license": "CC0",
 		"source": "https://lukky-nl.itch.io/handpainted-fantasy-props-pack",
-		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_props/preview.jpg",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_props/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_props/handpainted_props.zip"
 	},
 	{
@@ -62,7 +62,7 @@
 		"author": "Lukky",
 		"license": "CC0",
 		"source": "https://lukky-nl.itch.io/handpainted-texture-pack",
-		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_textures/preview.jpg",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_textures/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_textures/handpainted_textures.zip"
 	},
 	{
