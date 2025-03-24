@@ -2,7 +2,7 @@
 	{
 		"name": "Godette (Rigged)",
 		"type": "3D Model",
-		"description": "Fully rigged 3D Model of 'Godette', the mascot of the Godot Engine (https://godotengine.org/), created in Blender 3.2 (although the rig should also work in older versions).",
+		"description": "Fully rigged 3D Model of 'Godette', the mascot of the Godot Engine.",
 		"category": "Character",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godette/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godette/godette.zip"
@@ -12,7 +12,15 @@
 		"type": "3D Model",
 		"description": "The digital edition of the legendary Godot plush.",
 		"category": "Prop",
-		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godot_plush/preview.png",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godot_plush/preview.jpg",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godot_plush/godot_plush.zip"
+	},
+	{
+		"name": "Prototype Textures",
+		"type": "Textures",
+		"description": "Prototype textures from Kenny.nl.",
+		"category": "Prototype",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/protoype_textures/preview.jpg",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/protoype_textures/godot_plush.zip"
 	}
 ]
