@@ -2,7 +2,7 @@
 	{
 		"name": "Godette (Rigged)",
 		"type": "3D Model",
-		"description": "Fully rigged 3D Model of 'Godette', the mascot of the Godot Engine.",
+		"description": "Fully rigged 3D Model of 'Godette', the Godot mascot.",
 		"category": "Character",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godette/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godette/godette.zip"
@@ -26,7 +26,7 @@
 	{
 		"name": "Universal Animation Library",
 		"type": "Animation",
-		"description": "A kit of 45 animations, created using a universal humanoid rig, which is ready for retargeting.",
+		"description": "A kit of 45 animations, ready for retargeting.",
 		"category": "Library",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/universal_animation_library/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/universal_animation_library/universal_animation_library.zip"
