@@ -11,6 +11,17 @@
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/brackeys_platformer_assets/brackeys_platformer_assets.zip"
 	},
 	{
+		"name": "Chibi Characters",
+		"type": "3D Model",
+		"description": "Hey, here's some rigged chibi characters with some animations.",
+		"category": "Character",
+		"author": "styloo",
+		"license": "CC0",
+		"source": "https://styloo.itch.io/chibi",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/brackeys_platformer_assets/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/brackeys_platformer_assets/brackeys_platformer_assets.zip"
+	},
+	{
 		"name": "Godette",
 		"type": "3D Model",
 		"description": "Fully rigged 3D Model of 'Godette', the Godot mascot.",
@@ -31,6 +42,28 @@
 		"source": "https://fr3nkd.gumroad.com/l/vhfvy",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godot_plush/preview.jpg",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godot_plush/godot_plush.zip"
+	},
+	{
+		"name": "Handpainted Fantasy Props Pack",
+		"type": "3D Model",
+		"description": "Some free handpainted props [Lukky] made.",
+		"category": "Prop",
+		"author": "Lukky",
+		"license": "CC0",
+		"source": "https://lukky-nl.itch.io/handpainted-fantasy-props-pack",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_props/preview.jpg",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_props/handpainted_props.zip"
+	},
+	{
+		"name": "Handpainted Texture Pack",
+		"type": "Texture",
+		"description": "Small pack of [Lukky's] handpainted textures.",
+		"category": "Misc",
+		"author": "Lukky",
+		"license": "CC0",
+		"source": "https://lukky-nl.itch.io/handpainted-texture-pack",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_textures/preview.jpg",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_textures/handpainted_textures.zip"
 	},
 	{
 		"name": "Mixamo - X Bot",
