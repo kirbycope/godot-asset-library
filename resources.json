@@ -1,18 +1,18 @@
 [
-    {
-        "name": "Godette (Rigged)",
+	{
+		"name": "Godette (Rigged)",
 		"type": "3D Model",
-        "description": "Fully rigged 3D Model of 'Godette', the mascot of the Godot Engine (https://godotengine.org/), created in Blender 3.2 (although the rig should also work in older versions).",
-        "category": "Character",
-        "preview": "godette/preview.png",
-        "url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godette/godette.zip"
-    },
-    {
-        "name": "Godot Plush by FR3NKD",
+		"description": "Fully rigged 3D Model of 'Godette', the mascot of the Godot Engine (https://godotengine.org/), created in Blender 3.2 (although the rig should also work in older versions).",
+		"category": "Character",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godette/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godette/godette.zip"
+	},
+	{
+		"name": "Godot Plush by FR3NKD",
 		"type": "3D Model",
-        "description": "The digital edition of the legendary Godot plush.",
-        "category": "Prop",
-        "preview": "godot_plush/preview.png",
-        "url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godot_plush/godot_plush.zip"
-    }
+		"description": "The digital edition of the legendary Godot plush.",
+		"category": "Prop",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godot_plush/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/godot_plush/godot_plush.zip"
+	}
 ]
