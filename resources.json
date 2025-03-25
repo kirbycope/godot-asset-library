@@ -66,28 +66,6 @@
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/handpainted_textures/handpainted_textures.zip"
 	},
 	{
-		"name": "Mixamo - X Bot",
-		"type": "3D Model",
-		"description": "Animate 3D characters for games, film, and more.",
-		"category": "Character",
-		"author": "Adobe",
-		"license": "Proprietary",
-		"source": "https://www.mixamo.com/#/?page=1&query=X+Bot&type=Character",
-		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/mixamo_x_bot/preview.png",
-		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/mixamo_x_bot/mixamo_x_bot.zip"
-	},
-	{
-		"name": "Mixamo - Y Bot",
-		"type": "3D Model",
-		"description": "Animate 3D characters for games, film, and more.",
-		"category": "Character",
-		"author": "Adobe",
-		"license": "Proprietary",
-		"source": "https://www.mixamo.com/#/?page=1&query=Y+Bot&type=Character",
-		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/mixamo_y_bot/preview.png",
-		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/mixamo_y_bot/mixamo_y_bot.zip"
-	},
-	{
 		"name": "Monocraft",
 		"type": "Font",
 		"description": "A monospaced programming font inspired by the Minecraft typeface.",
@@ -97,39 +75,6 @@
 		"source": "https://github.com/IdreesInc/Monocraft",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/monocraft/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/monocraft/monocraft.zip"
-	},
-	{
-		"name": "POLYGON - Easter Pack",
-		"type": "3D Model",
-		"description": "Synty® Studios presents: POLYGON - Easter Pack.",
-		"category": "Prop",
-		"author": "Synty",
-		"license": "Proprietary",
-		"source": "https://syntystore.com/products/polygon-easter-pack",
-		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_easter/preview.png",
-		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_easter/polygon_ppolygon_eastermpkins.zip"
-	},
-	{
-		"name": "POLYGON - Pumpkins Pack",
-		"type": "3D Model",
-		"description": "Synty® Studios presents: POLYGON - Pumpkins Pack.",
-		"category": "Prop",
-		"author": "Synty",
-		"license": "Proprietary",
-		"source": "https://syntystore.com/products/polygon-pumpkins-pack",
-		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_pumpkins/preview.png",
-		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_pumpkins/polygon_pumpkins.zip"
-	},
-	{
-		"name": "POLYGON - Xmas Pack",
-		"type": "3D Model",
-		"description": "Synty® Studios presents: POLYGON - Xmas Pack.",
-		"category": "Prop",
-		"author": "Synty",
-		"license": "Proprietary",
-		"source": "https://syntystore.com/products/polygon-xmas-pack",
-		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_xmas/preview.png",
-		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/polygon_xmas/polygon_xmas.zip"
 	},
 	{
 		"name": "Prototype Textures",
