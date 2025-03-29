@@ -77,6 +77,28 @@
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/monocraft/monocraft.zip"
 	},
 	{
+		"name": "Platformer Kit",
+		"type": "3D Model",
+		"description": "Platformer kit from Kenny.nl.",
+		"category": "Environment",
+		"author": "Kenny",
+		"license": "CC0",
+		"source": "https://kenney.nl/assets/platformer-kit",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/platformer_kit/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/platformer_kit/platformer_kit.zip"
+	},
+	{
+		"name": "Platformer Pack",
+		"type": "Textures",
+		"description": "Platformer pack from Kenny.nl.",
+		"category": "Character",
+		"author": "Kenny",
+		"license": "CC0",
+		"source": "https://kenney.nl/assets/platformer-pack-redux",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/platformer_pack_redux/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/platformer_pack_redux/platformer_pack_redux.zip"
+	},
+	{
 		"name": "Prototype Textures",
 		"type": "Texture",
 		"description": "Prototype textures from Kenny.nl.",
