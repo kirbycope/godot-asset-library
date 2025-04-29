@@ -110,6 +110,17 @@
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/prototype_textures/prototype_textures.zip"
 	},
 	{
+		"name": "Random Objects",
+		"type": "3d Model",
+		"description": "Some objects I didn't know where to put, so I'll put it here.",
+		"category": "",
+		"author": "styloo",
+		"license": "CC0",
+		"source": "https://styloo.itch.io/random",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/random_objects/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/random_objects/random_objects.zip"
+	},
+	{
 		"name": "Universal Animation Library",
 		"type": "Animation",
 		"description": "A kit of 45 animations, ready for retargeting.",
