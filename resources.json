@@ -22,6 +22,17 @@
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/chibi_characters/chibi_characters.zip"
 	},
 	{
+		"name": "Food and Kitchen Props",
+		"type": "3D Model",
+		"description": "Here's some food and kitchen props.",
+		"category": "Prop",
+		"author": "styloo",
+		"license": "CC0",
+		"source": "https://styloo.itch.io/food",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/food_kitchen_props/preview.jpg",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/food_kitchen_props/food_kitchen_props.zip"
+	},
+	{
 		"name": "Godette",
 		"type": "3D Model",
 		"description": "Fully rigged 3D Model of 'Godette', the Godot mascot.",
@@ -77,6 +88,17 @@
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/monocraft/monocraft.zip"
 	},
 	{
+		"name": "Nature Pack, Low Poly",
+		"type": "3D Model",
+		"description": "A low poly nature pack.",
+		"category": "Environment",
+		"author": "flo-bit",
+		"license": "CC0",
+		"source": "https://flo-bit.itch.io/low-poly-nature-pack",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/nature_pack/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/nature_pack/nature_pack.zip"
+	},
+	{
 		"name": "Platformer Kit",
 		"type": "3D Model",
 		"description": "Platformer kit from Kenny.nl.",
@@ -119,6 +141,17 @@
 		"source": "https://styloo.itch.io/random",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/random_objects/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/random_objects/random_objects.zip"
+	},
+	{
+		"name": "Stone Bridges",
+		"type": "3d Model",
+		"description": "Stone Bridges pack.",
+		"category": "Environment",
+		"author": "Creative Trio",
+		"license": "CC0",
+		"source": "https://creativetrio.art/2021/03/11/stone-bridges-pack-01/",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/stone_bridges/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/stone_bridges/stone_bridges.zip"
 	},
 	{
 		"name": "Universal Animation Library",
