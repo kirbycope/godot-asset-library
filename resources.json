@@ -113,7 +113,7 @@
 		"name": "Random Objects",
 		"type": "3d Model",
 		"description": "Some objects I didn't know where to put, so I'll put it here.",
-		"category": "",
+		"category": "Prop",
 		"author": "styloo",
 		"license": "CC0",
 		"source": "https://styloo.itch.io/random",
@@ -130,5 +130,16 @@
 		"source": "https://quaternius.itch.io/universal-animation-library",
 		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/universal_animation_library/preview.png",
 		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/universal_animation_library/universal_animation_library.zip"
+	},
+	{
+		"name": "Village Pack",
+		"type": "3d Model",
+		"description": "A village asset pack , this time i RETOPO everything.",
+		"category": "Environment",
+		"author": "styloo",
+		"license": "CC0",
+		"source": "https://styloo.itch.io/vil",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/village_pack/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/village_pack/village_pack.zip"
 	}
 ]
