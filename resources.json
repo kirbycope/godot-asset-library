@@ -1,5 +1,16 @@
 [
 	{
+		"name": "Basic Motions FREE",
+		"type": "Animation",
+		"description": "A downloadable asset pack.",
+		"category": "Library",
+		"author": "Kevin Iglesias",
+		"license": "Royalty Free",
+		"source": "https://kevdev.itch.io/basic-motions-free",
+		"preview": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/basic_motions/preview.png",
+		"url": "https://raw.githubusercontent.com/kirbycope/godot-asset-library/refs/heads/main/basic_motions/basic_motions.zip"
+	},
+	{
 		"name": "Brackeys' Platformer Bundle",
 		"type": "Bundle",
 		"description": "Make your first game using this small collection of assets.",
